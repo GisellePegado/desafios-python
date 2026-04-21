@@ -1,6 +1,6 @@
 <div align="center">
 
-# Trabalho — Lógica de Programação e Algoritmos
+# 🐍 Desafios Python
 
 Quatro desafios práticos em Python desenvolvidos para a disciplina de Lógica de Programação e Algoritmos.
 
