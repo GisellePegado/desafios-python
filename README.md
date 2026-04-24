@@ -6,7 +6,7 @@ Quatro desafios práticos em Python desenvolvidos para a disciplina de Lógica d
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/Python-3.6+-3776AB.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square))
 
 </div>
 
